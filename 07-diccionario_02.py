@@ -1,3 +1,4 @@
+
 import os
 os.system("cls")
 
@@ -38,3 +39,4 @@ else:
 print("Lista completa de alumnos ")
 for alumno in alumnos:
     print(alumno)
+
