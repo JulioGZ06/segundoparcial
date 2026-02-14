@@ -5,7 +5,6 @@ print("=== CAPTURA DE ALUMNOS ===")
 
 cantidad = int(input("¿Cuántos alumnos quieres capturar?: "))
 
-
 alumnos = []
 
 for i in range(cantidad):
